@@ -1,2 +1,2 @@
 myName = "Sara"
-print(f"{myName}")
+print(f"'{myName}'")
